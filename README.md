@@ -1,4 +1,4 @@
-# Substainable_Agriculture
+# Sustainable_Agriculture
 # AI-Powered Personalized Crop Advisory System for Smallholder Farmers
 
 ## Project Goal
